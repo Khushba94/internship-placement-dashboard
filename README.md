@@ -16,6 +16,7 @@ This view helps answer questions like:
 - Which programmes need more employer partnerships?
 - Are we prepared for peak placement years?
 - How do placement trends align with enrolment cycles?
+
 ![Placement by Year](images/placement_by_year.png)
 
 #### **Intern source type over time - Agency vs Self‑Sourced**
@@ -25,6 +26,7 @@ Visualising this helps teams:
 - Identify where students need more guidance
 - Strengthen relationships with agencies
 - Balance internal vs external sourcing strategies
+
 ![Intern Source Type](images/intern_source_type.png)
 
 #### **Placement trends - Conversion Over Time**
@@ -34,6 +36,7 @@ This view supports decisions around:
 - Programme‑specific interventions
 - Curriculum alignment with industry needs
 - Forecasting placement capacity
+
 ![Placement trend](images/placement_trends.png)
 
 #### **Company-level breakdown - Where Interns Actually Go**
@@ -43,6 +46,7 @@ This helps answer:
 - Which companies are our strongest partners?
 - Where should we focus relationship‑building?
 - Are students gravitating toward certain industries?
+
 ![Company Breakdown](images/company_breakdown.png)
 
 ## How I Built This
