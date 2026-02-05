@@ -9,7 +9,7 @@ synthetic_internship_data.xlsx
 README.md  
 
 ## Visualisations
-- **Placement count by year - Understanding Growth and Demand**
+# **Placement count by year - Understanding Growth and Demand**
 The first visualisation looks at placement volume across years and programmes. Even with synthetic data, the pattern mirrors what we often see in real operations: some programmes grow rapidly, others remain steady, and certain years experience sharp increases due to policy changes, industry demand, or student intake.
 
 This view helps answer questions like:
