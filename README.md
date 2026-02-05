@@ -2,6 +2,12 @@
 
 A Power BI dashboard built using a synthetic dataset to explore internship placement trends, sourcing patterns, programme performance, and company engagement. Inspired by my real‑world experience working with internship operations, this project demonstrates how data storytelling can support decision‑making.
 
+## Repository Structure
+/images                → Dashboard screenshots  
+Internship Dashboard.pbix  
+synthetic_internship_data.xlsx  
+README.md  
+
 ## Visualisations
 - Placement count by year
 ![Placement by Year](images/placement_by_year.png)
@@ -31,4 +37,9 @@ Power BI, Excel/CSV, data modelling, visual storytelling
 
 ## Purpose
 To demonstrate how data can support decision-making in academic operations and to build my analytics portfolio.
+
+## Future Improvements
+- Add DAX measures for deeper analysis  
+- Include a Python script for data generation  
+- Add drill-through pages for company-level insights  
 
